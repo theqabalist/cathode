@@ -1,0 +1,11 @@
+{
+  "description": "ffmpeg interface",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theqabalist/cathode.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.1"
+  }
+}

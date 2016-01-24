@@ -1,0 +1,1285 @@
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.986 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.149 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.172 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.159 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 9, column 21
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.067 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.161 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.145 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 13, column 35
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.069 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.086 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.098 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/head at line 13 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/session-get at line 14 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.124 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/session-get at line 14 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/session-get at line 14 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.15 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: EOF while reading, starting at line 16 and column 1 on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 38, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.074 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.084 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: EOF while reading, starting at line 7 and column 1 on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 40, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.084 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 22, column 65
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.079 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/file at line 26 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 28, column 13
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/file at line 25 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.119 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Too many arguments to def at line 21 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 21, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.088 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.089 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.36 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.316 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 59, column 21
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.095 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.138 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.193 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.176 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.166 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.141 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.24 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.178 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.168 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.177 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.142 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.12 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.16 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.174 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.157 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.12 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.15 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.135 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.113 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.117 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.119 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.12 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.117 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.095 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 66, column 21
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.117 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.127 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.14 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.206 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.134 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.553 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.141 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.776 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.477 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.434 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.612 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.666 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.043 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.676 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.451 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.505 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.438 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.651 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.515 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.416 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.57 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/ellipsis at line 57 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/horizontal at line 57 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/icon at line 57 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.951 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: EOF while reading string on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 75, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.39 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.423 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.621 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.528 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.529 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.509 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.528 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.718 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 55, column 91
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 2.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.918 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.836 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.215 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.21 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.165 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.183 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.095 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.131 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.096 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.126 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.092 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.092 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 68, column 22
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.096 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.131 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.114 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.096 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.098 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.096 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.098 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.089 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.135 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.088 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.114 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.092 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.123 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.125 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.088 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.12 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.113 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.095 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.113 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.087 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.121 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.121 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.153 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.131 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/path at line 54 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.351 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.23 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.176 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ] on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 88, column 99
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.083 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 102, column 79
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.073 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.124 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.111 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.114 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.125 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.092 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.119 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.136 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.074 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/e at line 54 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.104 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/e at line 54 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.124 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.123 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.121 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.133 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.113 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.098 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.132 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.119 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.109 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.096 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.1 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/remove-file at line 77 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.119 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var reagent.session/put at line 50 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.112 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.106 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Wrong number of args (1) passed to reagent.session/put! at line 61 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: when-let requires exactly 2 forms in binding vector in cathode.core:65 at line 65 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 65, column 3
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.093 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Wrong number of args (1) passed to reagent.session/put! at line 61 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.129 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.108 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.114 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/-<> at line 68 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (3) passed to: core/aget at line 68 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 68, column 13
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: :refer must be followed by a sequence of symbols in :require / :require-macros; offending spec: [swiss.arrows :refer :all] at line 1 src/cljs/cathode/core.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:566)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$parse_require_spec.invokeStatic (analyzer.cljc:1763)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1735)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invokeStatic (core.clj:652)
+    clojure.core$partial$fn__4765.doInvoke (core.clj:2534)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4785.invoke (core.clj:2644)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.boundedLength (RT.java:1749)
+    clojure.lang.RestFn.applyTo (RestFn.java:130)
+    clojure.core$apply.invokeStatic (core.clj:650)
+    clojure.core$apply.invoke (core.clj:641)
+    cljs.analyzer$eval1678$fn__1680$fn__1685.invoke (analyzer.cljc:1926)
+    clojure.core.protocols$fn__6755.invokeStatic (protocols.clj:167)
+    clojure.core.protocols/fn (protocols.clj:124)
+    clojure.core.protocols$fn__6710$G__6705__6719.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invokeStatic (protocols.clj:31)
+    clojure.core.protocols$fn__6738.invokeStatic (protocols.clj:75)
+    clojure.core.protocols/fn (protocols.clj:75)
+    clojure.core.protocols$fn__6684$G__6679__6697.invoke (protocols.clj:13)
+    clojure.core$reduce.invokeStatic (core.clj:6545)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.044 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.46 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.251 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 90, column 94
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.182 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.18 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.177 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/codec_name at line 93 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.188 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.148 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.162 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.158 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.158 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 106 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.156 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 106 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 107 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 107 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.2 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/<> at line 81 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/<> at line 82 src/cljs/cathode/core.cljs
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: Unmatched delimiter ) on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 82, column 23
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.113 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/<> at line 81 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/<> at line 82 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.177 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR: Referred macro swiss.arrows/<> does not exist on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.064 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mERROR: EOF while reading, starting at line 77 and column 1 on file /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs, line 140, column 1
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.089 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.151 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.195 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.19 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.136 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.213 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/streams.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.018 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.076 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.085 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/first-video at line 96 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-video at line 96 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-audio at line 97 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-audio at line 97 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 98 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 99 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 99 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.243 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.meta/-<> at line 5 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 6 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 7 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 8 src/cljs/cathode/meta.cljs
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/first-video at line 97 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-video at line 97 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-audio at line 98 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-audio at line 98 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 99 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 100 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-subtitle at line 100 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.24 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/first-video at line 97 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/first-audio at line 98 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.169 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.116 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/streams.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.019 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.105 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.meta/-<> at line 5 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 6 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 7 src/cljs/cathode/meta.cljs
+WARNING: Use of undeclared Var cathode.meta/<> at line 8 src/cljs/cathode/meta.cljs
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.218 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.141 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.097 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/format at line 84 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 85 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 85 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 86 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 86 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 88 src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 88 src/cljs/cathode/core.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.213 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/format at line 83 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 84 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 84 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 85 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 85 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/codec-name at line 87 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+WARNING: Use of undeclared Var cathode.core/language at line 87 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.235 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.core/format at line 83 /Users/bkeown/Dropbox/code/cathode/src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.142 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.141 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.14 seconds.[0m
