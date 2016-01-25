@@ -1283,3 +1283,541 @@ notifying browser that file changed:  out/cathode/core.js
 [0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
 notifying browser that file changed:  out/cathode/core.js
 [32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.14 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/file-header at line 5 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components/file-section at line 6 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.811 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/file-header at line 5 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components/file-section at line 6 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 1.049 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.135 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.152 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/file-header at line 5 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components/file-section at line 6 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.157 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.692 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mANALYSIS ERROR:  on file null, line null, column null
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.583 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/file-header at line 5 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components/file-section at line 6 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.148 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.023 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/app at line 86 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components/app at line 86 src/cljs/cathode/core.cljs
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.128 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/app.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$reduce1.invokeStatic (core.clj:911)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+    cljs.build.api$build.invokeStatic (api.clj:207)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.021 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/app.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$reduce1.invokeStatic (core.clj:911)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+    cljs.build.api$build.invokeStatic (api.clj:207)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.017 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/app.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$reduce1.invokeStatic (core.clj:911)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+    cljs.build.api$build.invokeStatic (api.clj:207)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.019 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/app.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$reduce1.invokeStatic (core.clj:911)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+    cljs.build.api$build.invokeStatic (api.clj:207)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.021 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/file.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.045 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: Namespaces must be named by a symbol. at line 1 src/cljs/cathode/components/file.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:566)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$eval1678$fn__1680.invoke (analyzer.cljc:1874)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+    cljs.analyzer$analyze_seq_STAR_.invokeStatic (analyzer.cljc:2390)
+    cljs.analyzer$analyze_seq_STAR_.invoke (analyzer.cljc:2388)
+    cljs.analyzer$analyze_seq_STAR__wrap.invokeStatic (analyzer.cljc:2395)
+    cljs.analyzer$analyze_seq_STAR__wrap.invoke (analyzer.cljc:2393)
+    cljs.analyzer$analyze_seq.invokeStatic (analyzer.cljc:2416)
+    cljs.analyzer$analyze_seq.invoke (analyzer.cljc:2397)
+    cljs.analyzer$analyze_form.invokeStatic (analyzer.cljc:2525)
+    cljs.analyzer$analyze_form.invoke (analyzer.cljc:2521)
+    cljs.analyzer$analyze_STAR_.invokeStatic (analyzer.cljc:2572)
+    cljs.analyzer$analyze_STAR_.invoke (analyzer.cljc:2563)
+    cljs.analyzer$analyze.invokeStatic (analyzer.cljc:2588)
+    cljs.analyzer$analyze.invoke (analyzer.cljc:2575)
+    cljs.analyzer$parse_ns$fn__1951$fn__1952.invoke (analyzer.cljc:2704)
+    cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2704)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.025 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.201 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.file/dragging-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/undragging-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/dropped-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 8 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 8 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 9 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 9 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 10 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 10 src/cljs/cathode/components/file.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.366 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Namespace cathode.components.app clashes with var cathode.components/app at line 1 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components.app/file-header at line 5 src/cljs/cathode/components/app.cljs
+WARNING: Use of undeclared Var cathode.components.app/file-section at line 6 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/app.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.183 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.file/dragging-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/undragging-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/dropped-file at line 7 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 8 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 8 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 9 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 9 src/cljs/cathode/components/file.cljs
+WARNING: No such namespace: session, could not locate session.cljs, session.cljc, or Closure namespace "" at line 10 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var session/get at line 10 src/cljs/cathode/components/file.cljs
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.237 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Namespace cathode.components.app clashes with var cathode.components/app at line 1 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/app.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.13 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.file/dragging-file at line 8 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/undragging-file at line 8 src/cljs/cathode/components/file.cljs
+WARNING: Use of undeclared Var cathode.components.file/dropped-file at line 8 src/cljs/cathode/components/file.cljs
+WARNING: Namespace cathode.components.app clashes with var cathode.components/app at line 1 src/cljs/cathode/components/app.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.171 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mclojure.lang.ExceptionInfo: :refer must be followed by a sequence of symbols in :require / :require-macros; offending spec: [cathode.components.app :refer app] at line 1 src/cljs/cathode/core.cljs
+ at clojure.core$ex_info.invokeStatic (core.clj:4617)
+    clojure.core$ex_info.invoke (core.clj:4617)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$error.invokeStatic (analyzer.cljc:566)
+    cljs.analyzer$error.invoke (analyzer.cljc:564)
+    cljs.analyzer$parse_require_spec.invokeStatic (analyzer.cljc:1763)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1735)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invokeStatic (core.clj:652)
+    clojure.core$partial$fn__4765.doInvoke (core.clj:2534)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$reduce1.invokeStatic (core.clj:915)
+    clojure.core$merge_with.invokeStatic (core.clj:2950)
+    clojure.core$merge_with.doInvoke (core.clj:2942)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invokeStatic (core.clj:650)
+    clojure.core$apply.invoke (core.clj:641)
+    cljs.analyzer$eval1678$fn__1680$fn__1685.invoke (analyzer.cljc:1926)
+    clojure.core.protocols$fn__6755.invokeStatic (protocols.clj:167)
+    clojure.core.protocols/fn (protocols.clj:124)
+    clojure.core.protocols$fn__6710$G__6705__6719.invoke (protocols.clj:19)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.041 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.194 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+[31mCompiling "target/cljsbuild/public/js/app.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/cljs/cathode/components/streams.cljs
+ at cljs.analyzer$parse_ns$fn__1951.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.analyzer$parse_ns.invokeStatic (analyzer.cljc:2673)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2663)
+    cljs.compiler$find_source.invokeStatic (compiler.cljc:1389)
+    cljs.compiler$find_source.invoke (compiler.cljc:1388)
+    clojure.core$map$fn__4785.invoke (core.clj:2646)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$fn__4446.invoke (core.clj:706)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.RT.seq (RT.java:521)
+    clojure.core$seq__4357.invokeStatic (core.clj:137)
+    clojure.core$concat$cat__4448$fn__4449.invoke (core.clj:715)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:688)
+    clojure.core$next__4341.invokeStatic (core.clj:64)
+    clojure.core$reduce1.invokeStatic (core.clj:925)
+    clojure.core$set.invokeStatic (core.clj:3983)
+    clojure.core$set.invoke (core.clj:3975)
+    cljs.closure$add_dependency_sources.invokeStatic (closure.clj:731)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:727)
+    cljs.closure$build.invokeStatic (closure.clj:1807)
+    cljs.closure$build.invoke (closure.clj:1749)
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.024 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.094 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.streams/remove-file at line 14 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 18 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/format at line 18 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 18 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/first-video at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/first-video at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/first-audio at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/first-audio at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: meta, could not locate meta.cljs, meta.cljc, or Closure namespace "" at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var meta/first-subtitle at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 22 src/cljs/cathode/components/streams.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.49 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.streams/remove-file at line 15 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 19 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 20 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var cathode.components.streams/data at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 23 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 23 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 23 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 23 src/cljs/cathode/components/streams.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.358 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.158 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.streams/remove-file at line 16 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 21 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 22 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 24 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/codec-name at line 24 src/cljs/cathode/components/streams.cljs
+WARNING: No such namespace: streams, could not locate streams.cljs, streams.cljc, or Closure namespace "" at line 24 src/cljs/cathode/components/streams.cljs
+WARNING: Use of undeclared Var streams/language at line 24 src/cljs/cathode/components/streams.cljs
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.31 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.streams/remove-file at line 17 src/cljs/cathode/components/streams.cljs
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+WARNING: Use of undeclared Var cathode.components.file/capture-file at line 23 /Users/bkeown/Dropbox/code/github.com/theqabalist/cathode/src/cljs/cathode/components/file.cljs
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.118 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.122 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.123 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/core.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.091 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.098 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/components/app.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.115 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.155 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/meta.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.101 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.11 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.099 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.102 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.09 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "src/cljc" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.126 seconds.[0m
