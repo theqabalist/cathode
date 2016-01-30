@@ -58,8 +58,7 @@
                                           :output-dir "target/cljsbuild/public/js/spec"
                                           :asset-path   "js/spec"
                                           :source-map "target/cljsbuild/public/js/spec.js.map"
-                                          :optimizations :simple
-                                          :pretty-print  true}}}}
+                                          :optimizations :simple}}}}
 
 
   :profiles {:dev {:repl-options {:init-ns cathode.repl}
