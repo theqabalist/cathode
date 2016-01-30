@@ -1,7 +1,13 @@
 (ns cathode.streams)
 
-(defn codec-name [stream]
+(defn type [stream]
+  (aget stream "codec_type"))
+
+(defn codec [stream]
   (aget stream "codec_name"))
+
+(defn channels [stream]
+  (aget stream "channels"))
 
 (defn language [stream]
   (or (-> stream
@@ -9,3 +15,15 @@
           ((fn [x] (or x #js {})))
           (aget "language"))
       "--"))
+
+(defmulti apple-tv-compat (comp keyword type))
+(defmethod apple-tv-compat :video [stream]
+  (= (codec stream) "h264"))
+(defmethod apple-tv-compat :audio [stream]
+  (let [channels (channels stream)
+        codec (codec stream)]
+    (or
+      (and (<= channels 2) (= codec "aac"))
+      (and (> channels 2) (= codec "ac3")))))
+(defmethod apple-tv-compat :subtitle [stream]
+  (= (codec stream) "mov_text"))

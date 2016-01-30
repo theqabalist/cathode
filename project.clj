@@ -24,6 +24,7 @@
 
   :plugins [[lein-environ "1.0.1"]
             [lein-cljsbuild "1.1.1"]
+            [lein-kibit "0.1.2"]
             [lein-asset-minifier "0.2.4"
              :exclusions [org.clojure/clojure]]
 ]
@@ -48,12 +49,18 @@
   {:assets
    {"resources/public/css/site.min.css" "resources/public/css/site.css"}}
 
-  :cljsbuild {:builds {:app {:source-paths ["src/cljs" "src/cljc"]
-                             :compiler {:output-to "target/cljsbuild/public/js/app.js"
-                                        :output-dir "target/cljsbuild/public/js/out"
-                                        :asset-path   "js/out"
-                                        :optimizations :none
-                                        :pretty-print  true}}}}
+   :cljsbuild {:builds {:app {:source-paths ["src/cljs"]
+                              :compiler {:output-to "target/cljsbuild/public/js/app.js"
+                                         :output-dir "target/cljsbuild/public/js/out"
+                                         :asset-path   "js/out"
+                                         :optimizations :none
+                                         :pretty-print  true}}
+                        :spec {:source-paths ["src/cljs" "spec"]
+                               :compiler {:output-to "target/cljsbuild/public/js/spec.js"
+                                          :output-dir "target/cljsbuild/public/js/spec"
+                                          :asset-path   "js/spec"
+                                          :optimizations :whitespace
+                                          :pretty-print  true}}}}
 
 
   :profiles {:dev {:repl-options {:init-ns cathode.repl}
