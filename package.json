@@ -12,6 +12,7 @@
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.19",
     "karma-jasmine": "^0.3.6",
+    "karma-sourcemap-loader": "^0.3.7",
     "phantom": "^0.8.4",
     "phantomjs-prebuilt": "^2.1.3"
   }

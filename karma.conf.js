@@ -6,6 +6,9 @@ module.exports = function (config) {
             "target/cljsbuild/public/js/spec.js"
         ],
         browsers: ["PhantomJS"],
-        reporters: ["progress"]
+        reporters: ["progress"],
+        preprocessors: {
+            '**/*.js': ['sourcemap']
+        }
     });
 };

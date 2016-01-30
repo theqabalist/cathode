@@ -19,15 +19,13 @@
                  [org.clojure/clojurescript "1.7.228" :scope "provided"]
                  [secretary "1.2.3"]
                  [venantius/accountant "0.1.6"
-                  :exclusions [org.clojure/tools.reader]]
-                 ]
+                  :exclusions [org.clojure/tools.reader]]]
 
   :plugins [[lein-environ "1.0.1"]
             [lein-cljsbuild "1.1.1"]
             [lein-kibit "0.1.2"]
             [lein-asset-minifier "0.2.4"
-             :exclusions [org.clojure/clojure]]
-]
+             :exclusions [org.clojure/clojure]]]
 
   :ring {:handler cathode.handler/app
          :uberwar-name "cathode.war"}
@@ -55,11 +53,12 @@
                                          :asset-path   "js/out"
                                          :optimizations :none
                                          :pretty-print  true}}
-                        :spec {:source-paths ["src/cljs" "spec"]
+                        :spec {:source-paths ["src/cljc" "src/cljs" "spec"]
                                :compiler {:output-to "target/cljsbuild/public/js/spec.js"
                                           :output-dir "target/cljsbuild/public/js/spec"
                                           :asset-path   "js/spec"
-                                          :optimizations :whitespace
+                                          :source-map "target/cljsbuild/public/js/spec.js.map"
+                                          :optimizations :simple
                                           :pretty-print  true}}}}
 
 
@@ -114,13 +113,7 @@
 
                    :cljsbuild {:builds {:app {:source-paths ["env/dev/cljs"]
                                               :compiler {:main "cathode.dev"
-                                                         :source-map true}}
-
-
-
-                                        }
-
-                               }}
+                                                         :source-map true}}}}}
 
              :uberjar {:hooks [minify-assets.plugin/hooks]
                        :source-paths ["env/prod/clj"]

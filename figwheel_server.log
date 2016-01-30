@@ -1942,3 +1942,34 @@ notifying browser that file changed:  out/cathode/streams_test.js
     clojure.core.protocols$fn__6738.invokeStatic (protocols.clj:75)
     clojure.core.protocols/fn (protocols.clj:75)
 [32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.028 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.274 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.143 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.162 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.162 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.107 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/components/file.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.103 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  target/cljsbuild/public/js/out/goog/deps.js
+notifying browser that file changed:  target/cljsbuild/public/js/out/cljs_deps.js
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.297 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.277 seconds.[0m
+[0mCompiling "target/cljsbuild/public/js/app.js" from ("src/cljs" "env/dev/cljs")...
+notifying browser that file changed:  out/cathode/streams.js
+[32mSuccessfully compiled "target/cljsbuild/public/js/app.js" in 0.155 seconds.[0m
