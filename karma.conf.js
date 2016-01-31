@@ -6,7 +6,7 @@ module.exports = function (config) {
             "target/cljsbuild/public/js/spec.js"
         ],
         browsers: ["PhantomJS"],
-        reporters: ["progress", "coverage"],
+        reporters: ["dots", "coverage"],
         preprocessors: {
             "target/cljsbuild/public/js/spec.js": ['sourcemap', 'coverage']
         },

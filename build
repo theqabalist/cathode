@@ -1,0 +1,2 @@
+#!/bin/bash
+rm -rf target/cljsbuild/public/js/*.js* coverage/* && lein cljsbuild once && karma start --single-run && remap-istanbul -i coverage/coverage.json -o coverage/html -t html

@@ -13,6 +13,7 @@
     "karma": "^0.13.19",
     "karma-coverage": "^0.5.3",
     "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.7",
     "nodemon": "^1.8.1",
     "phantom": "^0.8.4",
