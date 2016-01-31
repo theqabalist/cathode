@@ -29,9 +29,6 @@
 ;                 [:div "/very/long/path/to/file/name.mkv"]
 ;                 [:div {:class "ui indicating tiny progress active" :data-percent "50"} [:div {:class "bar" :style {:width "50%"}}]]]
 ;               [:td {:class "center aligned"} [:i {:class "clock icon"}]]]]]]])
-
-(defn mount-root []
-  (reagent/render [app] (.getElementById js/document "app")))
-
+(def ^:dynamic *render* reagent/render)
 (defn init! []
-  (mount-root))
+  (*render* [app] (.getElementById js/document "app")))

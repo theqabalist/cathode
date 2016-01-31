@@ -6,9 +6,15 @@ module.exports = function (config) {
             "target/cljsbuild/public/js/spec.js"
         ],
         browsers: ["PhantomJS"],
-        reporters: ["progress"],
+        reporters: ["progress", "coverage"],
         preprocessors: {
-            '**/*.js': ['sourcemap']
+            "target/cljsbuild/public/js/spec.js": ['sourcemap', 'coverage']
+        },
+        coverageReporter: {
+            type: 'json',
+            subdir: '.',
+            file: 'coverage.json'
         }
     });
 };
+//Hello
