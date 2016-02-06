@@ -10,12 +10,17 @@
 (defn header []
   [:div {:id "stream-header" :class "ui attached sub inverted blue header"} "Streams"])
 
+(defn compat-icon-class [stream]
+  (if (streams/apple-tv-compat stream)
+    "large green check circle icon"
+    "large red remove circle icon"))
+
 (defn stream-info [stream]
   [:tr
     [:td [:strong (-> stream (streams/type) (string/capitalize))]]
     [:td {:class "center aligned"} (streams/codec stream)]
     [:td {:class "center aligned"} (streams/language stream)]
-    [:td {:class "center aligned"} [:i {:class "large green check circle icon"}]]])
+    [:td {:class "center aligned"} [:i {:class (compat-icon-class stream)}]]])
 
 (defn file-menu []
   [:th {:class "collapsing"}

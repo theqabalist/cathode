@@ -1,4 +1,5 @@
-(ns cathode.streams)
+(ns cathode.streams
+  (:require [clojure.string :refer [includes?]]))
 
 (defn type [stream]
   (aget stream "codec_type"))
@@ -31,3 +32,5 @@
       (and (> channels 2) (= codec "ac3")))))
 (defmethod apple-tv-compat :subtitle [stream]
   (= (codec stream) "mov_text"))
+(defmethod apple-tv-compat :container [stream]
+  (includes? (codec stream) "mp4"))

@@ -97,4 +97,12 @@
           (-> "subrip" (substream) (expect-compat) (.toBe false))))
 
         (it "should reject blank codec names" (fn []
-          (-> nil (substream) (expect-compat) (.toBe false)))))))))))
+          (-> nil (substream) (expect-compat) (.toBe false)))))))
+
+    (describe "when you have a container" (fn []
+      (letfn [(contstream [type] #js {"codec_type" "container" "codec_name" type})]
+        (it "should accept mp4" (fn []
+          (-> "abc,123,mp4,hello" (contstream) (expect-compat) (.toBe true))))
+
+        (it "should reject anything else" (fn []
+          (-> "flv" (contstream) (expect-compat) (.toBe false)))))))))))
